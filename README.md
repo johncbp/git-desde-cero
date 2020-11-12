@@ -55,3 +55,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Noelia Rodríguez https://github.com/noeunla
 - Cesar Alvarez https://github.com/Cesar98
 - Brayan Moreno https://github.com/YoooBrayan
+- Josel Toro https://github.com/ctec105
