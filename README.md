@@ -56,3 +56,4 @@ Descarga Git del sitio oficial: https://git-scm.com/downloads
 - Cesar Alvarez https://github.com/Cesar98
 - Brayan Moreno https://github.com/YoooBrayan
 - Josel Toro https://github.com/ctec105
+- Alan Cristian Martinez Genaro:  https://github.com/AlanCristianMartinezGenaro
